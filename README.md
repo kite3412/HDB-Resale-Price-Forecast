@@ -1,1 +1,1 @@
-# HDB-Resale-Price-Forecast
+This project forcasts the resale price of 4 room HDB flat in Queenstown based on 10 years of historical transaction record from data.gov.sg. 
